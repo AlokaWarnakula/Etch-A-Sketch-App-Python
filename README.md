@@ -8,7 +8,7 @@ An interactive Python Turtle project where you control a turtle with your keyboa
 
 Here’s a screenshot of the turtle in action:
 
-![Turtle Drawing Example](./Etch-A-Sketch-App-Python
+![Turtle Drawing Example](Etch-A-Sketch-App-Python
 /1.png)
 
 ---
